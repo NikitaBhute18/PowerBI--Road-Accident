@@ -35,6 +35,7 @@ Client wants to create a Road Accident Dashboard for year 2021 & 2022 so that th
 
 
 3.Secondary KPI: Total Casualties with respect to vehicle type for current year
+
 ![image](https://github.com/NikitaBhute18/PowerBI--Road-Accident/assets/173534395/f2049a42-373f-417a-9e24-38bcd704bd48)
 
 
